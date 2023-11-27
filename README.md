@@ -17,5 +17,3 @@ Check out the map below or download the high-resolution PNG version [here](https
 </p>
 
 Feel free to explore, modify, and use the code as needed. Don't forget to give credit when using or adapting this work. Enjoy mapping with simplicity!
-
-Credit
